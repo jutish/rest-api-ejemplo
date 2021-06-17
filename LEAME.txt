@@ -1,0 +1,2 @@
+Ejemplo de rest API basado en el siguiente video de Fazt:
+https://www.youtube.com/watch?v=HEx2lVokPu0
